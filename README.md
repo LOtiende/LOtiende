@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Levin Otiende</h1>
-<h3 align="center">A passionate Information Technology enthusiast from Kenya</h3>
+<h3 align="center">A passionate Information Technology enthusiast from Kenya
+I thrive in environments where I can use technology to solve real-world problems and enjoy tackling challenges that push me to grow. I’ve built practical skills in cybers security, software and system administration, programming, and database management, and I’m always looking for ways to improve. With a forward-thinking mindset and a keen interest in emerging technologies, I’m continuously expanding my knowledge to make a meaningful impact in the tech world.</h3>
 
 - 🔭 I’m currently working on [BUNDUTREK SAFARIS](https://bundutrek.com/)
 
