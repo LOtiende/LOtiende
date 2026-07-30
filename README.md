@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an interior design website (development phase)
 
-- 🔭 I’m currently working on tours and travel website (development phase)
+- 🔭 I’m currently working on a tours and travel website (development phase)
 
 - 🌱 I’m currently learning **Software development data analytics and VAPT**
 
