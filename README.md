@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Levin Otiende</h1>
-<h3 align="center">A passionate Information Technology enthusiast from Kenya,
-I thrive in environments where I can use technology to solve real-world problems and enjoy tackling challenges that push me to grow. I’ve built practical skills in cyber security, software and system administration, programming, and database management, and I’m always looking for ways to improve. With a forward-thinking mindset and a keen interest in emerging technologies, I’m continuously expanding my knowledge to make a meaningful impact in the tech world.</h3>
+<h3 align="center">Passionate and results-driven Information Systems graduate with professional experience in enterprise applications, networking, systems administration, and IT infrastructure, transitioning into software engineering and full-stack development. Skilled in building and supporting technology solutions while leveraging a strong foundation in databases, programming, Linux, and cloud-ready systems. Actively expanding expertise in modern web development, secure software design, and Vulnerability Assessment and Penetration Testing (VAPT) through hands-on labs and real-world projects. Adept at learning new technologies quickly, solving complex technical problems, and delivering reliable, secure, and scalable solutions. Committed to continuous learning and contributing to innovative teams that build impactful software.</h3>
 
-- 🔭 I’m currently working on [BUNDUTREK SAFARIS](https://bundutrek.com/)
+- 🔭 I’m currently working on an interior design website (development phase)
 
-- 🔭 I’m currently working on [DESTINY TOURS AND TRAVEL](https://destinytoursandtravel.co.ke/)
+- 🔭 I’m currently working on tours and travel website (development phase)
 
-- 🌱 I’m currently learning **Software development data analytics and cyber security**
+- 🌱 I’m currently learning **Software development data analytics and VAPT**
 
 - 📫 How to reach me **levinotiende@gmail.com**
 
